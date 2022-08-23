@@ -9,7 +9,7 @@
       <nav>
         <ul class="nav-list">
           <li class="nav-item">
-            <a href="https://github.com">
+            <a href="https://github.com/drewclem">
               Github
               <ExternalLink />
             </a>

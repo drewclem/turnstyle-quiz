@@ -29,7 +29,7 @@
           </button>
         </div>
 
-        <div class="flex flex-col h-36">
+        <div class="flex flex-col min-h-[9rem]">
           <label class="grid lg:grid-cols-2 gap-6 lg:gap-12">
             <h3 class="text-xl mb-6">
               {{ currentQuestion.label }}
